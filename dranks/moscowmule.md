@@ -1,6 +1,5 @@
 ##The moscow mule is one tasty beverage.
 
-I should find the recipe.
 
 Pretty sure there is:
 
@@ -9,4 +8,6 @@ Pretty sure there is:
 * vodka
 
 
-A copper cup is recommended.
+Crush some ice
+Pour in some(?) vodka, lime juice, and ginger beer.
+Make sure the cup is copper.
